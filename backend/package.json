@@ -1,0 +1,31 @@
+{
+  "name": "exportman-power-up",
+  "version": "0.0.1",
+  "description": "A sample Trello Power-Up that can be used as a starting point for your own awesome Power-Up.",
+  "scripts": {},
+  "resolutions": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/jest": "^23.1.1",
+    "@types/node": "^10.12.12",
+    "@typescript-eslint/eslint-plugin": "^2.12.0",
+    "@typescript-eslint/parser": "^2.12.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-prefer-arrow": "^1.1.7",
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0",
+    "moleculer": "^0.13.0",
+    "moleculer-decorators": "^1.1.1",
+    "moleculer-repl": "^0.5.3",
+    "moleculer-web": "^0.8.0",
+    "nats": "^1.4.0",
+    "ts-jest": "^23.10.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.7.5"
+  },
+  "engines": {
+    "node": "12"
+  }
+}
